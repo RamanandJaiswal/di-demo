@@ -1,0 +1,24 @@
+# this is comment
+
+name: john
+
+names:
+    - John
+    - Paul
+    - Ringo
+
+pound_sign: "#"
+
+book:
+  author: kaisee
+  publisher: Prakash
+
+truth: yes
+
+another_truth: True
+
+more_true: true
+
+include_lines: |
+  mera bharat mahan
+  sau me 80 beiman

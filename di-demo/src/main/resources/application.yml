@@ -1,0 +1,13 @@
+rj:
+  jms:
+    username: John paul
+    password: sachss
+    url: someurl
+
+---
+ spring:
+  profiles: de
+
+rj:
+  jms:
+    username: JMS username
